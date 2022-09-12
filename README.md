@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning javascript, c++, c# and php.
 - 💞️ I’m looking to collaborate on games and apps.
 - 🔬 Just now i'm looking how technology and coding can improve elite athletes.
-- 📫 How to reach me:
-      - md on twitter @Gil_1197
-      - mail gturro97@gmail.com
+- 📫 How to reach me: -md on twitter or -mail gturro97@gmail.com
