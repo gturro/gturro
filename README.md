@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Guillem Turró
-- 👀 I’m interested in new technologies, games dev, rockets and science.
-- 🌱 I’m currently learning Typescript, Vue and Laravel-Eloquent frameworks. 
-- 💞️ I’m looking to collaborate on developing games and apps.
-- 🔬 Just now i'm looking how technology and coding can improve elite athletes.
-- 📫 How to reach me: -md on twitter or -mail gturro97@gmail.com
+- 👀 I’m interested in new technologies, games dev and rocket science.
+- 🌱 I’m currently learning Typescript and React.
+- 💞️ I’m looking to collaborate on developing apps and games.
+- 📫 Reach me: -md on twitter or -mail gturrogil@gmail.com
